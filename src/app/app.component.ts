@@ -19,10 +19,4 @@ export class AppComponent {
     age: 38,
     user: 'equiman',
   };
-
-  constructor() {
-    // this.person.name;
-    // this.person.age;
-    // this.person.user;
-  }
 }
